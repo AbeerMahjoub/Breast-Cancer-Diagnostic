@@ -18,6 +18,8 @@ They describe characteristics of the cell nuclei present in the image.
   * Recursive Features Elimination with Cross Validation.
   
   * Principal Component Analysis.
+
+* Model Data with XGBoost Algorithm.
   
 
 ## Data Source: 
